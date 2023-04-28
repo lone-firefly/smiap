@@ -1,3 +1,7 @@
-:root{
-  --variables : 10px; /* Переменная : свойтва */ 
+:root {
+  --white: #ffffff;
+  --black: #0000;
+  --blue: #0997ef;
+  --dark-blue: #0d6efdbf;
+  --navy-blue: #21325b;
 }

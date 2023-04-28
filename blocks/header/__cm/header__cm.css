@@ -1,0 +1,7 @@
+.header__cm {
+  height: 167px;
+  width: 173px;
+  display: grid;
+  gap: 5px;
+  align-self: flex-start;
+}
