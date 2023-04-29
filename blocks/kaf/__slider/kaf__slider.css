@@ -1,0 +1,6 @@
+.kaf__slider {
+  display: grid;
+  position: relative;
+  margin-top: 119px;
+  gap: 25px;
+}

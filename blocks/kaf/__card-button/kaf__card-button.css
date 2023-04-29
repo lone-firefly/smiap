@@ -1,0 +1,13 @@
+.kaf__card-button {
+  display: flex;
+  background-color: var(--blue);
+  height: 30px;
+  width: fit-content;
+  gap: 9px;
+  padding: 5px 10px;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 9.9px;
+  align-self: flex-end;
+  justify-self: flex-end;
+}

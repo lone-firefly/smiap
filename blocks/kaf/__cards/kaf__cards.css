@@ -1,0 +1,5 @@
+.kaf__cards {
+  display: flex;
+  gap: 60px;
+  width: fit-content;
+}

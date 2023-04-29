@@ -3,6 +3,8 @@
 @import "../vendor/fonts/fonts.css";
 /* Blocks */
 @import "../blocks/page/page.css";
+/* Button */
+@import "../blocks/button/button.css";
 /* Header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__ap-text/header__ap-text.css";
@@ -27,7 +29,55 @@
 /* Lists List */
 @import "../blocks/list/list.css";
 @import "../blocks/lists/lists.css";
-/* Button */
-@import "../blocks/button/button.css";
+/* Kaf */
+@import "../blocks/kaf/__butt-img/butt-img.css";
+@import "../blocks/kaf/__butt-text/kaf__butt-text.css";
+@import "../blocks/kaf/__card-button/kaf__card-button.css";
+@import "../blocks/kaf/__card-history/kaf__card-history.css";
+@import "../blocks/kaf/__card-text/kaf__card-text.css";
+@import "../blocks/kaf/__card-title/kaf__card-title.css";
+@import "../blocks/kaf/__card-workers/kaf__card-workers.css";
+@import "../blocks/kaf/__card/kaf__card.css";
+@import "../blocks/kaf/__cards/kaf__cards.css";
+@import "../blocks/kaf/__title/kaf__title.css";
+@import "../blocks/kaf/__img/kaf__img.css";
+@import "../blocks/kaf/__arr-left/kaf__arr-left.css";
+@import "../blocks/kaf/__arr-right/kaf__arr-right.css";
+@import "../blocks/kaf/__arr/kaf__arr.css";
+@import "../blocks/kaf/__slider/kaf__slider.css";
+@import "../blocks/kaf/__dots/kaf__dots.css";
+@import "../blocks/kaf/__dot/kaf__dot.css";
+@import "../blocks/kaf/__dot/_active/kaf__dot_active.css";
+@import "../blocks/kaf/kaf.css";
+
+@import "../blocks/kaf/__blocks/kaf__blocks.css";
+@import "../blocks/kaf/__block/kaf__block.css";
+@import "../blocks/kaf/__glasses/kaf__glasses.css";
+@import "../blocks/kaf/__block-img/kaf__block-img.css";
+@import "../blocks/kaf/__block-text/kaf__block-text.css";
+@import "../blocks/kaf/__butt-block/kaf__butt-block.css";
+@import "../blocks/kaf/__butt-block-text/kaf__butt-block-text.css";
+@import "../blocks/kaf/__block-arr/kaf__block-arr.css";
+@import "../blocks/kaf/__people/kaf__people.css";
+@import "../blocks/kaf/__book/kaf__book.css";
+@import "../blocks/kaf/__block-glasses-text/kaf__block-glasses-text.css";
+@import "../blocks/kaf/__block-people-text/kaf__block-people-text.css";
+@import "../blocks/kaf/__block-book-text/kaf__block-book-text.css";
+
+/* Info */
+@import "../blocks/info/__group-text/info__group-text.css";
+@import "../blocks/info/__group/info__group.css";
+@import "../blocks/info/__map-text/info__map-text.css";
+@import "../blocks/info/__map/info__map.css";
+@import "../blocks/info/__subtitle/info__subtitle.css";
+@import "../blocks/info/__text/info__text.css";
+@import "../blocks/info/__text/_blue/info__text_blue.css";
+@import "../blocks/info/__title/info__title.css";
+@import "../blocks/info/__bg/info__bg.css";
+@import "../blocks/info/__bg-map/info__bg-map.css";
+@import "../blocks/info/info.css";
 /* Footer */
 @import "../blocks/footer/footer.css";
+@import "../blocks/footer/__group/footer__group.css";
+@import "../blocks/footer/__logo/footer__logo.css";
+@import "../blocks/footer/__text/footer__text.css";

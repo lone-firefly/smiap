@@ -1,0 +1,7 @@
+.kaf__dots {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  width: fit-content;
+  justify-self: center;
+}
