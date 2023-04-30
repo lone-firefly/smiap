@@ -1,0 +1,5 @@
+.news {
+  display: grid;
+  gap: 54px;
+  height: fit-content;
+}

@@ -5,5 +5,9 @@
   --dark-blue: #0d6efdbf;
   --navy-blue: #21325b;
   --light-blue: #f0f6ff;
+  --card: #f5f8ff;
+  --card-blue: #0d6efd;
+  --card-text: #f0f6ff;
+  --card-img: #0997ef;
   --grey: rgba(108, 117, 125, 0.2);
 }

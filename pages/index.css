@@ -5,6 +5,8 @@
 @import "../blocks/page/page.css";
 /* Button */
 @import "../blocks/button/button.css";
+/* Title */
+@import "../blocks/title/title.css";
 /* Header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__ap-text/header__ap-text.css";

@@ -1,0 +1,67 @@
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Button */
+@import "../blocks/button/button.css";
+/* Title */
+@import "../blocks/title/title.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__ap-text/header__ap-text.css";
+@import "../blocks/header/__ap-title/header__ap-title.css";
+@import "../blocks/header/__ap/header__ap.css";
+@import "../blocks/header/__button/header__button.css";
+@import "../blocks/header/__cm-text/header__cm-text.css";
+@import "../blocks/header/__cm-title/header__cm-title.css";
+@import "../blocks/header/__cm/header__cm.css";
+@import "../blocks/header/__link/header__link.css";
+@import "../blocks/header/__lists/header__lists.css";
+@import "../blocks/header/__logo-gr/header__logo-gr.css";
+@import "../blocks/header/__logo-i/header__logo-i.css";
+@import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__navigation/header__navigation.css";
+@import "../blocks/header/__text/header__text.css";
+@import "../blocks/header/__title/header__title.css";
+/* Main */
+@import "../blocks/main/main.css";
+/* Link */
+@import "../blocks/link/link.css";
+/* Lists List */
+@import "../blocks/list/list.css";
+@import "../blocks/lists/lists.css";
+/* News */
+@import "../blocks/news/__block-arr/news__block-arr.css";
+@import "../blocks/news/__butt-text/news__butt-text.css";
+@import "../blocks/news/__butt/news__butt.css";
+@import "../blocks/news/__card/news__card.css";
+@import "../blocks/news/__cards/news__cards.css";
+@import "../blocks/news/__conf-sub/news__conf-sub.css";
+@import "../blocks/news/__conf-text/news__conf-text.css";
+@import "../blocks/news/__data-num/news__data-num.css";
+@import "../blocks/news/__data-text/news__data-text.css";
+@import "../blocks/news/__data/news__data.css";
+@import "../blocks/news/__forum-sub/news__forum-sub.css";
+@import "../blocks/news/__forum-text/news__forum-text.css";
+@import "../blocks/news/__gagarin-sub/news__gagarin-sub.css";
+@import "../blocks/news/__gagarin-text/news__gagarin-text.css";
+@import "../blocks/news/__group-text/news__group-text.css";
+@import "../blocks/news/__img/news__img.css";
+@import "../blocks/news/__science-sub/news__science-sub.css";
+@import "../blocks/news/__science-text/news__science-text.css";
+@import "../blocks/news/__subtitle/news__subtitle.css";
+@import "../blocks/news/__text/news__text.css";
+@import "../blocks/news/__title/news__title.css";
+@import "../blocks/news/__year-sub/news__year-sub.css";
+@import "../blocks/news/__year-text/news__year-text.css";
+@import "../blocks/news/__img-num/news__img-num.css";
+@import "../blocks/news/__img-text/news__img-text.css";
+@import "../blocks/news/news.css";
+/* Main-news */
+@import "../blocks/main-news/main-news.css";
+/* Footer */
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__group/footer__group.css";
+@import "../blocks/footer/__logo/footer__logo.css";
+@import "../blocks/footer/__text/footer__text.css";

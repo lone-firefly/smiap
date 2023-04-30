@@ -1,0 +1,9 @@
+.news__group-text {
+  width: 627px;
+  height: 270px;
+  box-sizing: border-box;
+  padding: 30px 59px 16px 38px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

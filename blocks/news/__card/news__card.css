@@ -1,0 +1,6 @@
+.news__card {
+  width: 1197px;
+  height: 270px;
+  display: flex;
+  background-color: var(--card);
+}
