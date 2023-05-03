@@ -1,0 +1,10 @@
+.staff__list {
+  width: 1200px;
+  height: 2634px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 108px;
+  column-gap: 21px;
+  justify-content: center;
+  margin-bottom: 58px;
+}

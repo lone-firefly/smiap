@@ -1,0 +1,7 @@
+.buttons__btn {
+  width: 34.19px;
+  height: 36px;
+  border: 1px solid #dee2e6;
+  border-left: none;
+  color: var(--card-blue);
+}

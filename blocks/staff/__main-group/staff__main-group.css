@@ -1,0 +1,6 @@
+.staff__main-group {
+  width: 634px;
+  height: 293px;
+  display: grid;
+  justify-items: center;
+}

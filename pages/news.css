@@ -33,8 +33,8 @@
 @import "../blocks/lists/lists.css";
 /* News */
 @import "../blocks/news/__block-arr/news__block-arr.css";
-@import "../blocks/news/__butt-text/news__butt-text.css";
-@import "../blocks/news/__butt/news__butt.css";
+@import "../blocks/news/__btn-text/news__btn-text.css";
+@import "../blocks/news/__btn/news__btn.css";
 @import "../blocks/news/__card/news__card.css";
 @import "../blocks/news/__cards/news__cards.css";
 @import "../blocks/news/__conf-sub/news__conf-sub.css";
@@ -58,6 +58,18 @@
 @import "../blocks/news/__img-num/news__img-num.css";
 @import "../blocks/news/__img-text/news__img-text.css";
 @import "../blocks/news/news.css";
+/* Buttons */
+@import "../blocks/buttons/__btn/buttons__btn.css";
+@import "../blocks/buttons/__btn/_active/buttons__btn_active.css";
+@import "../blocks/buttons/__btn/_inactive/buttons__btn_inactive.css";
+@import "../blocks/buttons/__eleven/buttons__eleven.css";
+@import "../blocks/buttons/__ellipsis/buttons__ellipsis.css";
+@import "../blocks/buttons/__first/buttons__first.css";
+@import "../blocks/buttons/__second/buttons__second.css";
+@import "../blocks/buttons/__third/buttons__third.css";
+@import "../blocks/buttons/__left/buttons__left.css";
+@import "../blocks/buttons/__right/buttons__right.css";
+@import "../blocks/buttons/buttons.css";
 /* Main-news */
 @import "../blocks/main-news/main-news.css";
 /* Footer */

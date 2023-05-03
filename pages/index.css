@@ -32,8 +32,8 @@
 @import "../blocks/list/list.css";
 @import "../blocks/lists/lists.css";
 /* Kaf */
-@import "../blocks/kaf/__butt-img/butt-img.css";
-@import "../blocks/kaf/__butt-text/kaf__butt-text.css";
+@import "../blocks/kaf/__btn-img/btn-img.css";
+@import "../blocks/kaf/__btn-text/kaf__btn-text.css";
 @import "../blocks/kaf/__card-button/kaf__card-button.css";
 @import "../blocks/kaf/__card-history/kaf__card-history.css";
 @import "../blocks/kaf/__card-text/kaf__card-text.css";
@@ -57,8 +57,8 @@
 @import "../blocks/kaf/__glasses/kaf__glasses.css";
 @import "../blocks/kaf/__block-img/kaf__block-img.css";
 @import "../blocks/kaf/__block-text/kaf__block-text.css";
-@import "../blocks/kaf/__butt-block/kaf__butt-block.css";
-@import "../blocks/kaf/__butt-block-text/kaf__butt-block-text.css";
+@import "../blocks/kaf/__btn-block/kaf__btn-block.css";
+@import "../blocks/kaf/__btn-block-text/kaf__btn-block-text.css";
 @import "../blocks/kaf/__block-arr/kaf__block-arr.css";
 @import "../blocks/kaf/__people/kaf__people.css";
 @import "../blocks/kaf/__book/kaf__book.css";

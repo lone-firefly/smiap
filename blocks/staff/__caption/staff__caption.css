@@ -1,0 +1,8 @@
+.staff__caption {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--black);
+  height: 24px;
+  width: fit-content;
+}

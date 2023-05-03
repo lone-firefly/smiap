@@ -1,0 +1,6 @@
+.staff {
+  width: 1200px;
+  display: grid;
+  justify-content: center;
+  gap: 38px;
+}
