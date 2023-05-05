@@ -4,4 +4,6 @@
   color: var(--black);
   height: 24px;
   width: fit-content;
+  box-sizing: border-box;
+  padding-left: 33px;
 }

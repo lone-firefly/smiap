@@ -16,8 +16,3 @@ table tr th:first-child {
 table tr th:last-child {
   border-radius: 0 10px 10px 0;
 }
-
-table tr td {
-  box-sizing: border-box;
-  padding-left: 33px;
-}
