@@ -1,0 +1,7 @@
+.book__string {
+  width: 1200px;
+  height: 81px;
+  border: none;
+  color: var(--black);
+  border-radius: 10px;
+}

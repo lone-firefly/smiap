@@ -1,0 +1,7 @@
+.book__text-num {
+  margin: 0;
+  font-size: 20px;
+  color: var(--black);
+  height: 24px;
+  width: fit-content;
+}

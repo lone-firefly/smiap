@@ -1,0 +1,20 @@
+.books__btn {
+  border-radius: 0px 10px 10px 0px;
+  height: 58px;
+  width: 152px;
+  background-color: var(--blue);
+  color: var(--white);
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.books__btn:hover {
+  background-color: var(--card-blue);
+  color: var(--white);
+}
+
+.books__btn:active {
+  background-color: var(--white);
+  color: var(--card-blue);
+  border: 3px solid var(--card-blue);
+}
