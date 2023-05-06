@@ -1,0 +1,7 @@
+.entrant__line {
+  position: absolute;
+  top: 110px;
+  left: -328px;
+  display: flex;
+  gap: 40px;
+}

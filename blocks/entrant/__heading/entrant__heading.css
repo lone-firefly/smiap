@@ -1,0 +1,8 @@
+.entrant__heading {
+  margin: 0;
+  color: var(--card-blue);
+  font-size: 40px;
+  font-weight: 600;
+  height: 49px;
+  width: fit-content;
+}

@@ -1,0 +1,7 @@
+.entrant__text {
+  margin: 0;
+  width: fit-content;
+  font-weight: 500;
+  font-size: 25px;
+  color: var(--navy-blue);
+}

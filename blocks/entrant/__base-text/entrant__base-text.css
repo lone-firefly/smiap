@@ -1,0 +1,6 @@
+.entrant__base-text {
+  height: fit-content;
+  width: 1200px;
+  text-align: justify;
+  grid-row: span 2;
+}

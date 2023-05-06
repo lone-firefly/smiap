@@ -1,0 +1,9 @@
+.entrant__block-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--card-blue);
+  opacity: 0.5;
+  width: fit-content;
+  height: 24px;
+}

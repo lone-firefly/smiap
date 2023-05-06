@@ -1,0 +1,7 @@
+.entrant__base {
+  width: 1200px;
+  height: fit-content;
+  display: grid;
+  grid-template-rows: 49px 36px 330px 47px 260px 36px 60px;
+  grid-row: span 2;
+}
