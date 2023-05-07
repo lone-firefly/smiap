@@ -1,0 +1,10 @@
+.study__head {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 19.2px;
+  color: var(--card-blue);
+  height: 20px;
+  width: fit-content;
+  justify-self: center;
+}

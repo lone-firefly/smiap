@@ -1,0 +1,5 @@
+.study__block {
+  width: fit-content;
+  display: grid;
+  gap: 31px;
+}

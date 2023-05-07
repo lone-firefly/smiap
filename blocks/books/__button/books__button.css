@@ -8,6 +8,9 @@
   color: var(--card-blue);
   font-size: 24px;
   font-weight: 600;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
 }
 
 .books__button:hover {

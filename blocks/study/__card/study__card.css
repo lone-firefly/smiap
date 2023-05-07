@@ -1,0 +1,9 @@
+.study__card {
+  width: 592px;
+  height: 564px;
+  background-color: var(--card-text);
+  display: grid;
+  box-sizing: border-box;
+  padding-top: 35px;
+  border-radius: 50px;
+}

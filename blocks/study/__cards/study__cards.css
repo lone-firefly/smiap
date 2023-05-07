@@ -1,0 +1,4 @@
+.study__cards {
+  display: flex;
+  gap: 16px;
+}
