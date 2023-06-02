@@ -1,0 +1,5 @@
+.item__text_underline {
+  color: var(--card-blue);
+  text-decoration: none;
+  border-bottom: 1px solid var(--card-blue);
+}

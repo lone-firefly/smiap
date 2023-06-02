@@ -1,0 +1,8 @@
+.item__btn {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  margin-top: 61px;
+  margin-bottom: 96px;
+}

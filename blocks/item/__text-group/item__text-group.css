@@ -1,0 +1,6 @@
+.item__text-group {
+  display: grid;
+  gap: 35px;
+  width: 1200px;
+  text-align: justify;
+}

@@ -1,0 +1,68 @@
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Button */
+@import "../blocks/button/button.css";
+/* Title */
+@import "../blocks/title/title.css";
+/* Link */
+@import "../blocks/link/link.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__ap-text/header__ap-text.css";
+@import "../blocks/header/__ap-title/header__ap-title.css";
+@import "../blocks/header/__ap/header__ap.css";
+@import "../blocks/header/__button/header__button.css";
+@import "../blocks/header/__cm-text/header__cm-text.css";
+@import "../blocks/header/__cm-title/header__cm-title.css";
+@import "../blocks/header/__cm/header__cm.css";
+@import "../blocks/header/__link/header__link.css";
+@import "../blocks/header/__link/_active/header__link_active.css";
+@import "../blocks/header/__lists/header__lists.css";
+@import "../blocks/header/__logo-gr/header__logo-gr.css";
+@import "../blocks/header/__logo-i/header__logo-i.css";
+@import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__navigation/header__navigation.css";
+@import "../blocks/header/__text/header__text.css";
+@import "../blocks/header/__title/header__title.css";
+/* Main */
+@import "../blocks/main/main.css";
+/* Lists List */
+@import "../blocks/list/list.css";
+@import "../blocks/lists/lists.css";
+/* Item */
+@import "../blocks/item/__btn-arr/item__btn-arr.css";
+@import "../blocks/item/__btn/item__btn.css";
+@import "../blocks/item/__img/item__img.css";
+@import "../blocks/item/__list/item__list.css";
+@import "../blocks/item/__lists/item__lists.css";
+@import "../blocks/item/__text-group/item__text-group.css";
+@import "../blocks/item/__title/item__title.css";
+@import "../blocks/item/__ul-group/item__ul-group.css";
+@import "../blocks/item/item.css";
+@import "../blocks/item/__text/item__text.css";
+@import "../blocks/item/__text/_bold/item__text_bold.css";
+@import "../blocks/item/__text/_italic/item__text_italic.css";
+@import "../blocks/item/__text/_underline/item__text_underline.css";
+@import "../blocks/item/__btn-text/item__btn-text.css";
+/* Buttons */
+@import "../blocks/buttons/__btn/buttons__btn.css";
+@import "../blocks/buttons/__btn/_active/buttons__btn_active.css";
+@import "../blocks/buttons/__btn/_inactive/buttons__btn_inactive.css";
+@import "../blocks/buttons/__eleven/buttons__eleven.css";
+@import "../blocks/buttons/__ellipsis/buttons__ellipsis.css";
+@import "../blocks/buttons/__first/buttons__first.css";
+@import "../blocks/buttons/__second/buttons__second.css";
+@import "../blocks/buttons/__third/buttons__third.css";
+@import "../blocks/buttons/__left/buttons__left.css";
+@import "../blocks/buttons/__right/buttons__right.css";
+@import "../blocks/buttons/buttons.css";
+/* Main-news */
+@import "../blocks/main-item/main-item.css";
+/* Footer */
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__group/footer__group.css";
+@import "../blocks/footer/__logo/footer__logo.css";
+@import "../blocks/footer/__text/footer__text.css";
