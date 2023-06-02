@@ -1,0 +1,12 @@
+.news__data {
+  width: 160px;
+  height: 270px;
+  background-color: var(--card-blue);
+  box-sizing: border-box;
+  padding-top: 87px;
+  padding-bottom: 95px;
+  display: grid;
+  justify-items: center;
+  gap: 11px;
+  border-radius: 0 8px 8px 0;
+}

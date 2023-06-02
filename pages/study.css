@@ -1,0 +1,90 @@
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Button */
+@import "../blocks/button/button.css";
+/* Title */
+@import "../blocks/title/title.css";
+/* Link */
+@import "../blocks/link/link.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__ap-text/header__ap-text.css";
+@import "../blocks/header/__ap-title/header__ap-title.css";
+@import "../blocks/header/__ap/header__ap.css";
+@import "../blocks/header/__button/header__button.css";
+@import "../blocks/header/__cm-text/header__cm-text.css";
+@import "../blocks/header/__cm-title/header__cm-title.css";
+@import "../blocks/header/__cm/header__cm.css";
+@import "../blocks/header/__link/header__link.css";
+@import "../blocks/header/__link/_active/header__link_active.css";
+@import "../blocks/header/__lists/header__lists.css";
+@import "../blocks/header/__logo-gr/header__logo-gr.css";
+@import "../blocks/header/__logo-i/header__logo-i.css";
+@import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__navigation/header__navigation.css";
+@import "../blocks/header/__text/header__text.css";
+@import "../blocks/header/__title/header__title.css";
+/* Lists List */
+@import "../blocks/list/list.css";
+@import "../blocks/lists/lists.css";
+/* Books */
+@import "../blocks/books/__button/books__button.css";
+@import "../blocks/books/__button/_active/books__button_active.css";
+@import "../blocks/books/__buttons/books__buttons.css";
+/* Entrant */
+@import "../blocks/entrant/__button/entrant__button.css";
+@import "../blocks/entrant/__buttons/entrant__buttons.css";
+
+@import "../blocks/entrant/__img/entrant__img.css";
+
+@import "../blocks/entrant/__heading/entrant__heading.css";
+@import "../blocks/entrant/__response/entrant__response.css";
+@import "../blocks/entrant/__header/entrant__header.css";
+@import "../blocks/entrant/__r-title/entrant__r-title.css";
+@import "../blocks/entrant/__btns/entrant__btns.css";
+@import "../blocks/entrant/__btns-btn/entrant__btns-btn.css";
+@import "../blocks/entrant/__btn-img/entrant__btn-img.css";
+@import "../blocks/entrant/__slider/entrant__slider.css";
+@import "../blocks/entrant/__wrap/entrant__wrap.css";
+@import "../blocks/entrant/__line/entrant__line.css";
+@import "../blocks/entrant/__block/entrant__block.css";
+@import "../blocks/entrant/__block/_active/entrant__block_active.css";
+@import "../blocks/entrant/__block-img/entrant__block-img.css";
+@import "../blocks/entrant/__block-img/_active/entrant__block-img_active.css";
+@import "../blocks/entrant/__block-img/_right/entrant__block-img_right.css";
+@import "../blocks/entrant/__block-title/entrant__block-title.css";
+@import "../blocks/entrant/__block-title/_active/entrant__block-title_active.css";
+@import "../blocks/entrant/__block-title/_right/entrant__block-title_right.css";
+@import "../blocks/entrant/__block-text/entrant__block-text.css";
+@import "../blocks/entrant/__block-text/_active/entrant__block-text_active.css";
+
+@import "../blocks/entrant/entrant.css";
+/* Study */
+@import "../blocks/study/__block/study__block.css";
+@import "../blocks/study/__card-11/study__card-11.css";
+@import "../blocks/study/__card-12/study__card-12.css";
+@import "../blocks/study/__card-23/study__card-23.css";
+@import "../blocks/study/__card-24/study__card-24.css";
+
+@import "../blocks/study/__card/study__card.css";
+@import "../blocks/study/__cards/study__cards.css";
+@import "../blocks/study/__head/study__head.css";
+@import "../blocks/study/__heading/study__heading.css";
+@import "../blocks/study/__img/study__img.css";
+@import "../blocks/study/__list/study__list.css";
+@import "../blocks/study/__subtitle/study__subtitle.css";
+@import "../blocks/study/__subtitle/_height/study__subtitle_height.css";
+@import "../blocks/study/__text/study__text.css";
+@import "../blocks/study/__text/_height/study__text_height.css";
+@import "../blocks/study/__title/study__title.css";
+@import "../blocks/study/study.css";
+/* Main-study */
+@import "../blocks/main-study/main-study.css";
+/* Footer */
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__group/footer__group.css";
+@import "../blocks/footer/__logo/footer__logo.css";
+@import "../blocks/footer/__text/footer__text.css";

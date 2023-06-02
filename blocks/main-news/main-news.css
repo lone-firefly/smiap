@@ -1,0 +1,8 @@
+.main-news {
+  display: grid;
+  gap: 84px;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 54px;
+  margin-bottom: 314px;
+}

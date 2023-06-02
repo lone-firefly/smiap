@@ -1,0 +1,7 @@
+.staff__teacher {
+  width: 386px;
+  height: 272px;
+  display: grid;
+  justify-items: center;
+  gap: 13.9px;
+}

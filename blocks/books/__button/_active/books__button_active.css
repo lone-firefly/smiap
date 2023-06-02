@@ -1,0 +1,9 @@
+.books__button_active {
+  height: 57px;
+  width: fit-content;
+  box-sizing: border-box;
+  padding: 0 35px;
+  background-color: var(--blue-books);
+  border-radius: 50px;
+  color: var(--white);
+}

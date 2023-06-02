@@ -1,0 +1,9 @@
+.news__data-text {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  width: fit-content;
+  height: 16px;
+  color: var(--card-text);
+  text-align: center;
+}

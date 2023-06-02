@@ -1,0 +1,4 @@
+.book__string_dark {
+  background-color: var(--card-blue);
+  color: var(--white);
+}

@@ -1,0 +1,11 @@
+.staff__main-card {
+  width: 1163px;
+  height: 360px;
+  background-color: var(--card-text);
+  border-radius: 50px;
+  display: flex;
+  gap: 59px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 133px;
+}

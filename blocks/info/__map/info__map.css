@@ -1,0 +1,8 @@
+.info__map {
+  position: relative;
+  width: 1200px;
+  height: 720px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

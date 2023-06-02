@@ -1,0 +1,10 @@
+.news__btn {
+  display: flex;
+  gap: 14px;
+  height: 24px;
+  width: fit-content;
+  align-items: center;
+  margin-right: 37px;
+  margin-top: 22px;
+  text-decoration: none;
+}

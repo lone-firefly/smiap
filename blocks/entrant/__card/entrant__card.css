@@ -1,0 +1,11 @@
+.entrant__card {
+  width: 258px;
+  height: 450px;
+  background-color: var(--card-text);
+  border-radius: 20px;
+  color: var(--title);
+  display: grid;
+  justify-items: center;
+  grid-template-rows: 197px 60px;
+  align-items: center;
+}

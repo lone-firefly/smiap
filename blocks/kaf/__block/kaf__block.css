@@ -1,0 +1,10 @@
+.kaf__block {
+  display: grid;
+  width: 368px;
+  height: 350px;
+  justify-items: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding-top: 30px;
+  padding-bottom: 25px;
+}

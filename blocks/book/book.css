@@ -1,0 +1,18 @@
+.book {
+  border-spacing: 0;
+  margin-bottom: 396px;
+}
+
+table tr td:first-child {
+  border-radius: 10px 0 0 10px;
+}
+table tr td:last-child {
+  border-radius: 0 10px 10px 0;
+}
+
+table tr th:first-child {
+  border-radius: 10px 0 0 10px;
+}
+table tr th:last-child {
+  border-radius: 0 10px 10px 0;
+}

@@ -1,0 +1,4 @@
+.header__lists {
+  display: flex;
+  gap: 75px;
+}

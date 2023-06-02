@@ -1,0 +1,10 @@
+.staff__text-group {
+  width: 386px;
+  height: 59.56px;
+  box-sizing: border-box;
+  padding: 8.5px 0;
+  background-color: var(--card-text);
+  border-radius: 50px;
+  display: grid;
+  justify-items: center;
+}

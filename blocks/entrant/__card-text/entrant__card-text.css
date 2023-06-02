@@ -1,0 +1,8 @@
+.entrant__card-text {
+  margin: 0;
+  font-size: 16px;
+  line-height: 19.5px;
+  color: var(--title);
+  width: 214px;
+  height: fit-content;
+}

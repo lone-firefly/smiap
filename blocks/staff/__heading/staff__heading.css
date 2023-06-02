@@ -1,0 +1,8 @@
+.staff__heading {
+  margin: 0;
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--title);
+  width: 408px;
+  height: 24px;
+}

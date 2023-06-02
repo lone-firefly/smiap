@@ -1,0 +1,5 @@
+.books {
+  width: 1200px;
+  display: grid;
+  justify-content: center;
+}

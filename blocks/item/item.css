@@ -1,0 +1,6 @@
+.item {
+  display: grid;
+  justify-content: center;
+  gap: 35px;
+  margin-top: 54px;
+}

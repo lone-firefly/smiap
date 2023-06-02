@@ -1,0 +1,7 @@
+.entrant__first-group {
+  display: grid;
+  height: 60px;
+  width: fit-content;
+  margin-bottom: 32px;
+  margin-top: 34px;
+}

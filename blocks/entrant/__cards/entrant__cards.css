@@ -1,0 +1,9 @@
+.entrant__cards {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  height: 940px;
+  row-gap: 40px;
+  column-gap: 56px;
+  margin-top: 36px;
+}

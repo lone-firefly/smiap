@@ -1,0 +1,7 @@
+.entrant__header {
+  display: flex;
+  justify-content: space-between;
+  height: fit-content;
+  align-items: center;
+  margin-bottom: 57px;
+}

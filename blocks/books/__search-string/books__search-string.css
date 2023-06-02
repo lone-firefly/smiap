@@ -1,0 +1,9 @@
+.books__search-string {
+  width: 445px;
+  height: 58px;
+  background-color: var(--card-text);
+  border: none;
+  box-sizing: border-box;
+  padding-left: 50px;
+  border-radius: 10px 0px 0px 10px;
+}

@@ -1,0 +1,5 @@
+.entrant__btns {
+  display: flex;
+  gap: 43px;
+  height: fit-content;
+}

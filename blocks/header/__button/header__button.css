@@ -1,0 +1,11 @@
+.header__button {
+  background: url(../../../images/header/logo-white.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 104.98px;
+  height: 100px;
+}
+
+.header__button:hover {
+  background: url(../../../images/header/logo-blue.png);
+}

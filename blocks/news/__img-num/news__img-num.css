@@ -1,0 +1,8 @@
+.news__img-num {
+  width: 410px;
+  height: 270px;
+  background-color: var(--card-img);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

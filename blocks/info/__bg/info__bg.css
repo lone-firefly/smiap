@@ -1,0 +1,13 @@
+.info__bg {
+  position: absolute;
+  display: flex;
+  background: rgba(13, 110, 253, 0.75);
+  width: 1200px;
+  height: 720px;
+  align-items: center;
+  justify-content: center;
+}
+
+.info__bg:hover {
+  opacity: 0;
+}

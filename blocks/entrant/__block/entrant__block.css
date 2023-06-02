@@ -1,0 +1,12 @@
+.entrant__block {
+  position: relative;
+  /* width: 310px; */
+  display: grid;
+  width: 637px;
+  height: 250px;
+  border-radius: 50px;
+  background-color: var(--light-blue);
+  box-sizing: border-box;
+  padding-top: 71px;
+  padding-left: 40px;
+}
