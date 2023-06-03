@@ -1,0 +1,7 @@
+.student__cards {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1118px;
+  column-gap: 18px;
+  row-gap: 52px;
+}

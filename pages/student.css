@@ -33,8 +33,15 @@
 @import "../blocks/list/list.css";
 @import "../blocks/lists/lists.css";
 /* Student */
-@import "../blocks/";
-
+@import "../blocks/student/student.css";
+@import "../blocks/student/__group/student__group.css";
+@import "../blocks/student/__img/student__img.css";
+@import "../blocks/student/__card/student__card.css";
+@import "../blocks/student/__cards/student__cards.css";
+@import "../blocks/student/__text/student__text.css";
+@import "../blocks/student/__text/_bold/student__text_bold.css";
+@import "../blocks/student/__link/student__link.css";
+@import "../blocks/student/__link-text/student__link-text.css";
 /* Main-news */
 @import "../blocks/";
 /* Footer */

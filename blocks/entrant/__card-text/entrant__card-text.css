@@ -5,4 +5,5 @@
   color: var(--title);
   width: 214px;
   height: fit-content;
+  align-self: baseline;
 }

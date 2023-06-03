@@ -1,8 +1,11 @@
 .header__navigation {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 119px;
+  justify-content: space-between;
   padding-top: 50px;
   height: fit-content;
+  max-width: 1371px;
+  width: 90vw;
+  min-width: 1292px;
+  justify-self: center;
 }

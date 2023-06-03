@@ -1,0 +1,6 @@
+.student__group {
+  display: grid;
+  gap: 22px;
+  height: 110px;
+  align-content: baseline;
+}

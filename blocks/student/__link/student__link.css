@@ -1,0 +1,18 @@
+.student__link {
+  display: flex;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: var(--blue);
+  width: fit-content;
+  min-width: 140px;
+  height: 30px;
+  text-decoration: none;
+  align-items: center;
+  justify-items: center;
+  border-radius: 20px;
+  align-self: end;
+}
+
+.student__link:hover {
+  background-color: var(--card-blue);
+}
