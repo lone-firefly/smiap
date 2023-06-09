@@ -5,7 +5,13 @@
   padding-top: 50px;
   height: fit-content;
   max-width: 1371px;
+  min-width: 928px;
   width: 90vw;
-  min-width: 1292px;
   justify-self: center;
 }
+
+/* @media screen and (max-width: 1277px) {
+  .header__navigation {
+    width: 80vw;
+  }
+} */

@@ -8,3 +8,10 @@
   margin-top: 22px;
   text-decoration: none;
 }
+
+@media screen and (max-width: 1277px) {
+  .news__btn {
+    justify-self: flex-end;
+    margin: 0;
+  }
+}

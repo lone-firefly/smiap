@@ -3,3 +3,19 @@
   gap: 54px;
   width: fit-content;
 }
+
+@media screen and (max-width: 1277px) {
+  .news__cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 924px;
+    row-gap: 110px;
+    column-gap: 44px;
+  }
+}
+
+@media screen and (max-width: 1004px) {
+  .news__cards {
+    width: 440px;
+  }
+}

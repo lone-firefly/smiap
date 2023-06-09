@@ -1,0 +1,7 @@
+@media screen and (max-width: 1277px) {
+  .news__img {
+    width: 440px;
+    height: 270px;
+    border-radius: 0 8px 8px 0;
+  }
+}

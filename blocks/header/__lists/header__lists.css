@@ -1,4 +1,7 @@
 .header__lists {
   display: flex;
-  gap: 75px;
+  justify-content: space-between;
+  max-width: 1147px;
+  min-width: 781px;
+  width: 75vw;
 }

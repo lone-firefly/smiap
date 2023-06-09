@@ -6,3 +6,11 @@
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 1277px) {
+  .news__img-num {
+    width: 440px;
+    height: 270px;
+    border-radius: 8px;
+  }
+}

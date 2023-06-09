@@ -4,3 +4,11 @@
   display: flex;
   background-color: var(--card);
 }
+
+@media screen and (max-width: 1277px) {
+  .news__card {
+    display: grid;
+    width: 440px;
+    height: 620px;
+  }
+}

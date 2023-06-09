@@ -7,3 +7,13 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1277px) {
+  .news__group-text {
+    display: grid;
+    /* align-content: baseline; */
+    width: 440px;
+    height: 270px;
+    padding: 9px 28px 9px 28px;
+  }
+}

@@ -4,3 +4,9 @@
   font-weight: 600;
   color: var(--navy-blue);
 }
+
+@media screen and (max-width: 1277px) {
+  .news__subtitle {
+    margin-bottom: 17px;
+  }
+}
